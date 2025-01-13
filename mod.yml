@@ -1,0 +1,8 @@
+title: Birb
+author: shananas
+game: kh2
+assets:
+- name: obj/B_MU110.mdlx
+  method: copy
+  source:
+  - name: obj/B_MU110.mdlx
